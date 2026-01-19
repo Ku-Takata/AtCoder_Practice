@@ -1,6 +1,6 @@
 # AtCoder
 
-AtCoderの学習記録用リポジトリです。
+AtCoderを利用した学習記録用リポジトリです。
 Pythonを用いたアルゴリズムの実装と、基礎文法の習得を目的に取り組んでいます。
 
 ## 学習状況・進捗
@@ -22,12 +22,13 @@ Pythonを用いたアルゴリズムの実装と、基礎文法の習得を目�
 - Heuristic Contestにも参加。
 - その他参加できるContestには全参加。
 
-### 完了したもの
-## AtCoder Beginners Selection (ABS)
+
+## 完了したもの
+### AtCoder Beginners Selection (ABS)
 - AtCoderの過去問から選抜された重要問題（精選10問）の実装。
 - 基礎的なアルゴリズムと、標準入出力の処理の確認。
 
-## APG4b (Python入門)
+### APG4b (Python入門)
 - AtCoder Programming Guide for beginners (EX20まで完了)。
 - Pythonの基本文法を体系的に学習。
 
